@@ -5,9 +5,9 @@ A simple php social networking script designed using pathang framework. It has a
 
 Requirements : PHP 5.3 or 5.3+, MySQLi
 
-Live Demo : https://feedstack.asia/<br>
+Live Demo : https://social.apkhr.xyz/<br>
 Product Page : https://feedstack.asia/product <br>
-Video Promo : http://www.youtube.com/watch?v=RMWSYYnTWTs
+
 
 USER FEATURES
 --------
